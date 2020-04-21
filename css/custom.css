@@ -2,3 +2,48 @@
 /* Add your custom CSS declarations below  */
 
 
+html {
+    background-color: #FFFFF8;
+    font-family: interstate-mono,monospace;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.mynavbar {
+    font-family: interstate-mono,monospace;
+    font-style: normal;
+    font-weight: 400;
+    background-color: #FFFFF8;
+}
+
+.header-container {
+    background-color: #FCEBE0;
+    max-height: 750px;
+}
+
+.header-image {
+    max-height: 750px;
+    width: 100%;
+}
+
+p {
+    font-family: interstate-mono,monospace;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color: #1F1F1E;
+}
+.interstate-bold {
+    font-family: interstate-mono,monospace;
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+.myjumbotron {
+    background-color: #FFFFF8;
+}
+
+.poem {
+    margin: auto;
+}
